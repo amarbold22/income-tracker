@@ -4,9 +4,9 @@ const Steps = () => {
   return (
     <> 
         <ul className="steps">
-            <li className="step step-accent">Currency</li>
-            <li className="step step-accent">Balance</li>
-            <li className="step step-accent">Finish</li>
+            <li className="step">Currency</li>
+            <li className="step">Balance</li>
+            <li className="step">Finish</li>
         </ul>
     </>
   )

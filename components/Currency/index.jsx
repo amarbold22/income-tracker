@@ -24,7 +24,6 @@ const Currency = () => {
             <p className='text-xs pt-0'>
             Your base currency should be the one you use most often. All transaction in other currencies will be calculated based on this one 
             </p>
-            <button className='btn btn-primary w-full mt-6'>Confirm</button>
         </div>
     </>
   )
